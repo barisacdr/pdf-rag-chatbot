@@ -1,0 +1,7 @@
+langchain==0.0.179
+langchain_community==0.0.8
+openai==0.11.0
+huggingface-hub==0.15.1
+faiss-cpu==1.7.3
+pdfplumber==0.5.28
+tqdm==4.64.0
